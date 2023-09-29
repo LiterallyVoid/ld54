@@ -6,4 +6,4 @@
 
 <p>To serve locally:</p>
 <pre>cd dist; python -m http.server</pre>
-<p>(or any HTTP server of your choice)
+<p>(or any HTTP server of your choice)</p>
