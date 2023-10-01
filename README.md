@@ -1,3 +1,4 @@
+<h1><em>status: miserable failure</em></h1>
 <h1>Ludum Dare 54</h1>
 <p>To compile, run:</p>
 <pre>cargo build --target wasm32-unknown-unknown</pre>
